@@ -1,0 +1,19 @@
+.button-sign {
+  border-radius: 40px;
+  background:  rgb(43, 156, 248);
+  border-width: 1px;
+  width: 350px;
+  height: 35px;
+
+}
+
+.button-login {
+  border-radius: 40px;
+  border-color: rgb(41, 96, 214);
+  border-width: 1px;
+  width: 350px;
+  height: 35px;
+}
+
+.buttons {
+}
