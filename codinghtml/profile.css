@@ -1,0 +1,73 @@
+                            .intro {
+                                margin: 80px;
+                                padding: 80px;
+                                text-align: center;
+                            }
+                            
+                            .heading {
+                                border: 40px;
+                                padding: 20px;
+                                margin: 40px;
+                                border-radius: 100px;
+                                background-color:rgb(224, 122, 122);
+                                box-shadow: 5px 5px grey;
+                                
+                               
+                            }
+
+                            .author {
+                                font: italic bold 15px/50px Georgia, serif;
+                            }
+                            
+                            .welcome {
+                                font: italic bold 12px/30px Georgia, serif;
+                            }
+
+                            .heading img {
+                                border-radius: 200px;
+                            }
+                            .inspiration {
+                                border: groove;
+                                margin: 20px 40px 40px;
+                                box-shadow: 5px 5px grey;
+                                border-radius: 100px;
+                                background-color: rgb(221, 122, 122);
+                                 border: groove;
+                            }
+
+                           
+                            
+                            .bio {
+                                margin: 10px 80px 20px 80px;
+                                padding: 20px;
+                                text-align: center;
+                                list-style-position: inside;
+                                border: 40px;
+                                box-shadow: 5px 5px grey;
+                                border-radius: 100px;
+                                background-color: rgb(218, 129, 129);
+                            }
+                            
+                            .priciples {
+                                padding: 20px;
+                                text-align: center;
+                                list-style-position: inside;
+                                border: groove;
+                                box-shadow: 5px 5px grey;
+                                border-radius: 100px;
+                                margin: 10px 80px 20px 80px;
+                                background-color: rgb(226, 126, 126);
+                                 border: groove;
+                            }
+                            
+                            
+                            
+                            
+                            .quotes {
+                                margin: 10px 80px 20px 80px;
+                                background-color: rgb(187, 109, 109); 
+                                border: groove;
+                               color: rgb(239, 233, 245)
+                            }
+                            
+                       
